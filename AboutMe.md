@@ -6,4 +6,5 @@ below is my image.
 
 ![My image](https://github.com/thrinadh-chows/assignment2-gutta/blob/main/WhatsApp%20Image%202022-01-22%20at%205.30.23%20PM.jpeg)
 
+
 [Link to my image](https://github.com/thrinadh-chows/assignment2-gutta/blob/main/WhatsApp%20Image%202022-01-22%20at%205.30.23%20PM.jpeg)
