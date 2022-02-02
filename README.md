@@ -30,3 +30,11 @@ we can also find **gongurachicken** biryani in gongura restaurent to near kfc
 [AboutMe link](https://github.com/thrinadh-chows/assignment2-gutta/blob/main/AboutMe.md)
 
 ---
+
+# Sports
+
+| Name   | Location   | Amount   |
+|--------|------------|----------|
+| cricket   |chennai   | $20   |
+| tennnis   | bangalore  | $15   |
+| chess   | guntur   |$90  |
