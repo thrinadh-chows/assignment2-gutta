@@ -49,4 +49,27 @@ we can also find **gongurachicken** biryani in gongura restaurent to near kfc
 >friendship gives everything.
 *budha*
 
+---
+
+# code fencing
+
+> Breadth-first search (BFS) is an algorithm for searching a tree data structure for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. Extra memory, usually a queue, is needed to keep track of the child nodes that were encountered but not yet explored.
+
+[Link source](https://en.wikipedia.org/wiki/Breadth-first_search)
+
+```
+if (!used[u]) {
+    cout << "No path!";
+} else {
+    vector<int> path;
+    for (int v = u; v != -1; v = p[v])
+        path.push_back(v);
+    reverse(path.begin(), path.end());
+    cout << "Path: ";
+    for (int v : path)
+        cout << v << " ";
+}
+```
+[link of code - breadth first search](https://cp-algorithms.com/graph/breadth-first-search.html)
+
 
