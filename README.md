@@ -24,3 +24,9 @@ we can also find **gongurachicken** biryani in gongura restaurent to near kfc
 1. bawarchi
 2. chicken Mandi
 3. ice berg
+
+---
+
+[AboutMe link](https://github.com/thrinadh-chows/assignment2-gutta/blob/main/AboutMe.md)
+
+---
