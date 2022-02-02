@@ -38,3 +38,15 @@ we can also find **gongurachicken** biryani in gongura restaurent to near kfc
 | cricket   |chennai   | $20   |
 | tennnis   | bangalore  | $15   |
 | chess   | guntur   |$90  |
+
+---
+
+# Quotes
+
+>Dont trust anyone, be the one. 
+*Thrinadh*
+
+>friendship gives everything.
+*budha*
+
+
