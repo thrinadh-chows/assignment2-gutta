@@ -70,6 +70,6 @@ if (!used[u]) {
         cout << v << " ";
 }
 ```
-[link of code - breadth first search](https://cp-algorithms.com/graph/breadth-first-search.html)
+> https://cp-algorithms.com/graph/breadth-first-search.html
 
 
